@@ -8,7 +8,7 @@ Responsive 3D image slider that is designed with the help of HTML, CSS, and Java
 - **Responsive Design**: Fully responsive for different screen sizes, with full support on desktops, tablets, and mobile devices.
 - **Smooth Transition**: Includes smooth slide animations.
 - **Navigation Control**: Includes navigation buttons to switch to the previous and next images.
-- **Auto-Sliding**: Automatically switches to the next image every 5 seconds.
+- **Auto-Sliding**: Automatically switches to the next image every 4 seconds.
 
 ## Technologies Used
 
