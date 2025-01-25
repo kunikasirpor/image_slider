@@ -1,21 +1,17 @@
-Responsive 3D Image Slider
+# Responsive_3D_Image_Slider
 
-This project is a responsive 3D image slider designed using HTML, CSS, and JavaScript. It creates a beautiful view and interactive screen to display multiple images with cool transitions and amazing captions.
+Responsive 3D image slider that is designed with the help of HTML, CSS, and JavaScript. It creates a beautiful and interactive interface to show multiple images with cool transitions and amazing captions.
 
-Features
+## Features
 
-3D Carousel Effect: The current image is displayed centrally while the images before and after are faded with their positions respectively on the left and right.
+- **3D Carousel Effect**: Displays the current image centrally while the previous and next images are faded and positioned on the left and right respectively.
+- **Responsive Design**: Fully responsive for different screen sizes, with full support on desktops, tablets, and mobile devices.
+- **Smooth Transition**: Includes smooth slide animations.
+- **Navigation Control**: Includes navigation buttons to switch to the previous and next images.
+- **Auto-Sliding**: Automatically switches to the next image every 5 seconds.
 
-Responsive Design: Totally responsive for the different screens sizes, with full support on desktops, tablets, and mobile devices.
+## Technologies Used
 
-Smoothe Transition: Incorporates smooth slide animation.
-
-Navigation Control: Navigation controls which include navigating buttons to the previous and next images.
-
-Auto-sliding: Auto-switches to the next image every 5 seconds.
-
-Technologies Used
-
-**HTML**: In constructing the structure of the slider.
-**CSS**: Styling, animation, and responsiveness.
-**JavaScript** : Slider features, such as navigation and automatic sliding.
+- **HTML5**: Used to construct the structure of the slider.
+- **CSS3**: For styling, animations, and responsive design.
+- **JavaScript (ES6)**: To enable slider features such as navigation and automatic sliding.
